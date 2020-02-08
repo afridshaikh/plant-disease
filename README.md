@@ -4,6 +4,6 @@ This is a deep learning project. I trained a model using tensorflow on image dat
 Data Link: https://www.kaggle.com/vipoooool/new-plant-diseases-dataset
 
 Tools used:
-Python 3.6
-Tensorflow 2.0
-jupyter
+  * Python 3.6
+  * Tensorflow 2.0
+  * jupyter
